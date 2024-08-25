@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bug-Nihad
 - 👀 I’m interested in Programming, Data Science, Machine Learning and Reading Books.
-- 🌱 I’m currently learning Data Science and Machine Learning stuffs.
+
 
 
 <!---
